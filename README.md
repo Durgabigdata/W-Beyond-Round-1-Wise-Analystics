@@ -89,3 +89,6 @@ We trained **five models** and compared their performance:
 ```bash
 git clone https://github.com/your-username/sales-forecasting.git
 cd sales-forecasting
+
+## **Optional to run the Project**
+Run this Ipynb file on google colab after uploading all datasets.
